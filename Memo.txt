@@ -10,15 +10,19 @@ x192=8x12x12
    #
 
 Impossible (90deg rotation)
-6x6xN
-8x8xN
+ 6x 6xN
+ 8x 8xN
 10x10xN
 12x12xN
+
 Impossible (180deg rotation)
-4xN*[-20]
-5xN*[-16]
-6xN*[-15]
-7xN*[-12]
+4xNx[-20]
+5xNx[-18]
+6xNx[-15]
+7xNx[-14]
+8xNx[-11]
+9xNx[-10]
+
 
 
 
@@ -26,9 +30,17 @@ Impossible (180deg rotation)
 ####
   #
 
-Impossible (90deg rotation)
-6x6xN
+Possible?
 8x8xN
+
+Impossible (90deg rotation)
+ 6x 6xN
+ 8x 8xN
 10x10xN
 
+Impossible (180deg rotation)
 
+4xNx[-15]
+5xNx[-13]
+6xNx[-10]
+7xNx[-8]
