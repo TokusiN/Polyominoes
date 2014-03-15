@@ -12,6 +12,10 @@ Update 2013.12.03
 Update 2013.12.11
        7x11x25
 
+Update 2014.2.8
+       Impossible 7x12x25
+
+
 Possible
 4x12x[50,75]
 4x13x[50,75](4x13x50 : asymmetry)
@@ -53,7 +57,6 @@ Possible?
 6x13x25
 6x15x15
 7x 7xN(asymmetry)
-7x12x25
 7x13x50
 7x13x25(asymmetry)
 7x14x25
@@ -72,6 +75,8 @@ AxBxC mod 50 != 0
 5x13x[15](not symmetry)
 5x15x[-20]
 7x7xN
+7x12x25  3,507,856,509,916step
+
 
 Impossible
 AxBxC mod 25 != 0
