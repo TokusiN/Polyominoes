@@ -30,7 +30,7 @@ Possible
 5x10x[33,36,37,39-65,67,68,71](33,36,40,41 : asymmetry)
 5x11x[40,60,70,90]
 5x12x[20,25,30,35](5x12x25 : asymmetry)
-5x13x[25,30,40](5x13x25 : asymmetry)
+5x13x[25,30,40,...](5x13x25 : asymmetry)
 5x14x[20,25,30,35]
 5x15x[22,24,26,28,30,32,34,36,38,40,42]
 6x 6x25
@@ -57,12 +57,15 @@ Possible?
 6x13x25
 6x15x15
 7x 7xN(asymmetry)
+7x12x25(asymmetry)
 7x13x50
 7x13x25(asymmetry)
 7x14x25
 8x11x25
 8x15x15
 9x10x15
+9x11x25
+10x11x15
 
 Impossible when symmetry
 AxBxC mod 50 != 0

@@ -71,12 +71,6 @@ x192=8x8x18
 ####
    #
 
-Impossible (90deg rotation)
- 6x 6xN
- 8x 8xN
-10x10xN
-12x12xN
-
 Impossible (180deg rotation)
 4xNx[-20]
 5xNx[-18]
@@ -84,6 +78,10 @@ Impossible (180deg rotation)
 7xNx[-14]
 8xNx[-11]
 9xNx[-10]
+
+Impossible (90deg rotation)
+10x10xN
+12x12xN
 
 
 
