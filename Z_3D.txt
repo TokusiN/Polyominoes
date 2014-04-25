@@ -1,4 +1,4 @@
-prime boxes of the Z-Pentomino  Toshihiro Shirakawa 2013.11.23
+Prime boxes of the Z-Pentomino  Toshihiro Shirakawa 2013.11.23
 
 Update 2013.11.27
        4x13x50, 4x14x25, 4x19x25, 4x20x20, 5x8x20, 5x10x[33,36,40,41], 7x10x10, 9x10x10, 10x10x[10,11]
@@ -26,6 +26,7 @@ Possible
 4x18x25
 4x19x25
 4x20x[20,25,30,35]
+
 5x 8x20(asymmetry)
 5x10x[33,36,37,39-65,67,68,71](33,36,40,41 : asymmetry)
 5x11x[40,60,70,90]
@@ -33,6 +34,7 @@ Possible
 5x13x[25,30,40,...](5x13x25 : asymmetry)
 5x14x[20,25,30,35]
 5x15x[22,24,26,28,30,32,34,36,38,40,42]
+
 6x 6x25
 6x 7x[50,75]
 6x 8x25

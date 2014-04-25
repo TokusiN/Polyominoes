@@ -1,4 +1,4 @@
-prime boxes of Heptominoes  Toshihiro Shirakawa 2014.01.07
+Prime boxes of Heptominoes  Toshihiro Shirakawa 2014.01.07
 
 
 #######
