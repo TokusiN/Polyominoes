@@ -1,4 +1,4 @@
-Prime boxes of the W-Pentomino  Toshihiro Shirakawa 2014.05.xx
+Prime boxes of the W-Pentomino  Toshihiro Shirakawa 2014.06.11
 
 3x 7x[20,25,30,35]
 3x 8x[15,20,25]
