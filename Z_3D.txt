@@ -12,9 +12,6 @@ Update 2013.12.03
 Update 2013.12.11
        7x11x25
 
-Update 2014.2.8
-       Impossible 7x12x25
-
 Update 2014.5.28
        4x10x[50,55,60]
        5x 8x[35,50]
