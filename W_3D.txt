@@ -4,7 +4,7 @@ Prime boxes of the W-Pentomino  Toshihiro Shirakawa 2014.06.11
 3x 8x[15,20,25]
 3x 9x[15,20,25]
 3x10x[11-21]
-3x15x[11-15]
+3x[11-15]x15
 
 4x 5x[19,24,26,28-37,39-42,44,46]
 4x 6x[10,15]

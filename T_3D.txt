@@ -52,7 +52,7 @@ Update 2014.05.28
        4x11x[-60]
        4x12x[-25]
        5x8x[-99]
-       5x6x[-20]
+       5x9x[-20]
 
 Update 2014.6.11
        3x[17,19,23]x25
@@ -164,6 +164,7 @@ Impossible
 4x12x[-35]
 4x13x15
 4x14x15
+5x 5xN (Except possible case)
 5x Nx[6,7]
 5x 8x[-99]
 5x 8x[101-135](Except possible case)
