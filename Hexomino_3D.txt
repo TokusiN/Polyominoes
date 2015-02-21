@@ -5,6 +5,8 @@ prime boxes of Hexominoes  Toshihiro Shirakawa 2013.12.11
 ###
   ##
 
+minimal 156?
+
 Update 2013.12.13
        6x12x13
 
@@ -49,6 +51,8 @@ x500=5x10x60
 ###
  #
 
+minimal 304?
+
 Possible
 6x12x38
 8x10x30
@@ -79,6 +83,8 @@ x304=8x12x19
 ###
   ##
 
+minimal 192?
+
 Update 2013.12.14
        8x8x18
 
@@ -100,6 +106,8 @@ x192=8x8x18
 
 ###
   ###
+
+minimal 300?
 
 Possible
 4x15x(30+3n)
@@ -127,6 +135,8 @@ x360=4x15x36
 ####
   #
 
+minimal 2048?
+
 Update 2014.04.21
        8x8x192
 
@@ -151,6 +161,8 @@ x2048=8x8x192
 #
 ####
  #
+
+minimal 384?
 
 Update 2014.11.28
        8x8x36
