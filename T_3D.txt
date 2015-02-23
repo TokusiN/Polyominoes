@@ -106,6 +106,9 @@ Update 2015.01.24
 Update 2015.02.13
        7x10x[16,18]
        
+minimal 60
+3x10x10
+5x5x12
 
 Possible
 3x 7x20
@@ -192,14 +195,14 @@ Prime
 
 
 Impossible
-3x MxN(Except possible case)
-4x Nx[4-10]
+3xMxN(Except possible case)
+4x[4-10]xN
 4x11x[-75,90,95]
 4x12x[-35]
 4x13x15
 4x14x15
 5x 5xN (Except possible case)
-5x Nx[6,7]
+5x[6,7]xN
 5x 8x[-99]
 5x 8x[101-135](Except possible case)
 5x 9x[-32]

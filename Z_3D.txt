@@ -73,6 +73,10 @@ Update 2015.01.24
        Impossible:
        5x10x[17-18]
 
+minimal 120
+6x10x10
+
+
 Possible
 3x23x[150,175,200,225,250,275]
 3x24x[300,...]
@@ -196,22 +200,22 @@ Possible?
 
 Impossible when symmetry
 AxBxC mod 50 != 0
-3xNx[-22]
+3x[-22]xN
 3x23x50
-4xNx[-11]
-5xNx[-9]
+4x[-11]xN
+5x[-9]xN
 7x7xN
 
 
 Impossible
 AxBxC mod 25 != 0
-3x Nx[-16]
-4x Nx[-9]
+3x[-16]xN
+4x[-9]xN
 4x10x[-45]
 4x11x25
-5x Nx[-7]
-5x 8x[10,15,25,30]
-5x 9x[10,20]
+5x[-7]xN
+5x8x[10,15,25,30]
+5x9x[10,20]
 5x10x[-18]
 
 Number of solutions
