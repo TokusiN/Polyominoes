@@ -122,10 +122,10 @@ Possible
 4x15x(30+3n)
 
 Impossible (180 degree rotational symmetry)
-4xNx[-14]
-5xNx[-10]
-6xNx[-8]
-7xNx[-8]
+4x[-14]xN
+5x[-10]xN
+6x[-8]xN
+7x[-8]xN
 8x8xN
 
 Solutions
@@ -153,10 +153,10 @@ Update 2014.04.21
 
 Impossible (180 degree rotational symmetry)
 
-4xNx[-17]
-5xNx[-12]
-6xNx[-11]
-7xNx[-8]
+4x[-17]xN
+5x[-12]xN
+6x[-11]xN
+7x[-8]xN
 8x8x[-30]
 
 Impossible (90 degree rotational symmetry)
@@ -207,11 +207,11 @@ Impossible
 [3-4]xMxN
 
 Impossible (180 degree rotational symmetry)
-5xNx[-18]
-6xNx[-15]
-7xNx[-14]
-8xNx[-11]
-9xNx[-10]
+5x[-18]xN
+6x[-15]xN
+7x[-14]xN
+8x[-11]xN
+9x[-10]xN
 
 Impossible (90 degree rotational symmetry)
 10x10xN
