@@ -37,7 +37,7 @@ Possible?
 
 Number of solutions
 3x5x6:3
-4x5x6:24
+4x5x6:26
 3x5x8:6
 4x5x7:7
 5x5x6:9
