@@ -203,8 +203,7 @@ Impossible
 4x14x15
 5x 5xN (Except possible case)
 5x[6,7]xN
-5x 8x[-99]
-5x 8x[101-135](Except possible case)
+5x 8x[-99,101,102,104-113,115-117,119,120,122-127,129,133,135]
 5x 9x[-32]
 5x10x[10,11]
 6x 6xN
