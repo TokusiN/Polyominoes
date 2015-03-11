@@ -20,7 +20,7 @@ Update 2015.03.05
 
 Possible
 5x10x60
-6x 8x[23-30]
+6x 8x[23-30,60]
 6x11x16
 6x12x13
 8x12x12
@@ -125,7 +125,7 @@ Update 2015.03.05
        6x9x48
 
 Possible
-6x 8x30
+6x 8x[30,60]
 6x 9x48
 6x10x20
 7x 8x36
@@ -221,7 +221,7 @@ Update 2014.11.28
 Possible
 
 8x 8x36
-6x10x52
+6x10x[52,56]
 
 Possible?
 
