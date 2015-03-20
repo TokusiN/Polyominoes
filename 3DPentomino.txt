@@ -401,6 +401,10 @@ No.15
 112
 1
 
+Update 2015.03.20
+       Impossible:
+       2xMxN
+
 minimal 24
 4x5x6
 
