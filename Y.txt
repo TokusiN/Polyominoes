@@ -5,7 +5,7 @@ minimal 10
 
 Possible
 5x10
-9x[20,30,35,45]
+9x[20,30,45,55]
 10x[14,16,23,27]
 11x[20,30,35,45]
 12x[50,55,60,65,70,75,80,85,90,95]
@@ -33,6 +33,10 @@ Possible
 
 2x2x4x5
 2x2x5x9
+
+2D Complete
+3D Complete
+4D Complete
 
 Number of solutions
  5x10:4
