@@ -420,7 +420,7 @@ No.48
 Update 2015.03.23
        7x10x60
 
-minimal 600
+minimal 600?
 7x10x60
 
 7x10x60
