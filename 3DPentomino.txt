@@ -767,6 +767,21 @@ No.19
  2
 111
 
+Update 2015.04.01
+       3x16x25
+       3x17x25
+       5x 9x9
+       2x2x5x7
+       2x2x5x9
+       2x3x3x5
+       2x3x4x5
+       2x4x4x5
+       3x3x3x5
+       Impossible:
+       2x...x2x3xN
+       2x...x2x4xN
+       2x...x2x6xN
+
 minimal 10
 2x5x5
 
@@ -791,7 +806,7 @@ Possible
 5x 5x11
 5x 6x[7,9]
 5x 7x[7,9]
-5x 9x9
+5x 9x 9
 
 6x 6x10
 6x 6x15
@@ -804,32 +819,20 @@ Possible
 2x4x4x5
 3x3x3x5
 
-3D complete
-4D complete
-
+Complete
 
 Impossible
 2x[3,4,6,7,9]xN
 2x12x[5,10,15]
 3x[3-8]xN
-3x9x[10,15]
+3x 9x[10,15]
 3x10x[10,13,14,16,17]
 3x11xN
-4x4xN
-4x5x[6,7,9]
-5x5x[5,7,9]
-5x6x6
+4x 4xN
+4x 5x[6,7,9]
+5x 5x[5,7,9]
+5x 6x6
 
-2x2x3xN
-2x2x4xN
-2x2x6xN
-
-2x2x2x3xN
-2x2x2x4xN
-
-2x...x2xN
-
-Possible?
 2x...x2x3xN
 2x...x2x4xN
 2x...x2x6xN
