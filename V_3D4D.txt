@@ -1,6 +1,12 @@
 Prime boxes of the V-Pentomino  Toshihiro Shirakawa 2014.12.8
 
-Possible:
+3D Complete
+4D Complete except for 4x5x5x5 and 5x5x5x5
+
+minimal 18
+3x5x6
+
+Possible
 
 3x 5x[6,8]
 3x 7x[20,25,30,35]
@@ -29,11 +35,6 @@ Possible:
 Possible?
 4x5x5x5
 5x5x5x5
-
-
-3D Complete
-4D Complete with the exception of the 4x5x5x5, 5x5x5x5
-5D Complete
 
 Number of solutions
 3x5x6:3

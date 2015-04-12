@@ -5,6 +5,15 @@ Update 2015.04.12
        3x3x4x4
        3x4x4x4
 
+2D Complete
+3D Complete
+
+minimal 18
+9x12
+
+minimal 10
+3x4x5
+
 Possible
  9x[12,20,28]
 12x[13,14,17,19,21,24,25,29]
@@ -27,9 +36,6 @@ Possible
 3x3x3x[4,6]
 3x3x4x4
 3x4x4x4
-
-2D Complete
-3D Complete
 
 Prime
  9x[12,20,28]

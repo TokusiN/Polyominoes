@@ -1,5 +1,11 @@
 Prime boxes of the N-Pentomino  Toshihiro Shirakawa 2015.03.24
 
+3D Complete
+
+minimal 8
+2x4x5
+
+Possible
 2x4x5
 2x5x[5-7]
 3x4x[10,15]
@@ -11,9 +17,7 @@ Prime boxes of the N-Pentomino  Toshihiro Shirakawa 2015.03.24
 
 3x3x4x5
 
-3D Complete
-
-Possible
+Solutions
 2x4x5
 01 02 01 03 01 01 04 01 05 02 06 03 07 03 04 04 05 02 06 02 07 03 07 04 05 05 06 02 06 03 07 04 08 05 08 08 06 08 07 08 
 

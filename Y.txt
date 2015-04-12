@@ -1,5 +1,9 @@
 Prime boxes of the Y-Pentomino  Toshihiro Shirakawa 2015.03.20
 
+2D Complete
+3D Complete
+4D Complete
+
 minimal 10
 5x10
 
@@ -33,10 +37,6 @@ Possible
 
 2x2x4x5
 2x2x5x9
-
-2D Complete
-3D Complete
-4D Complete
 
 Number of solutions
  5x10:4

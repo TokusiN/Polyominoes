@@ -77,9 +77,10 @@ Update 2015.03.05
        4x24x25
        4x25x[25,26]
 
+6xMxN complete
+
 minimal 120
 6x10x10
-
 
 Possible
 3x23x[150,175,200,225,250,275]
@@ -121,8 +122,6 @@ Possible
 6x10x[10,15]
 6x11x25
 6x15x15
-
-6xMxN complete
 
 7x 8x25
 7x 9x25
