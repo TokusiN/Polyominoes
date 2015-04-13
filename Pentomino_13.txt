@@ -8,7 +8,7 @@ minimal 24
 minimal 12
 2x2x3x5
 
-Possible
+Prime
 2x 8x10
 2x 9x15
 2x10x[10,12,14]

@@ -5,7 +5,7 @@ Complete
 minimal 10
 2x5x5
 
-Possible
+Prime
 2x 5x[5,8,11,14,17]
 2x12x[20,25,30,35]
 

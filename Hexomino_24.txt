@@ -1,20 +1,9 @@
 Prime boxes of the No.24-Hexomino  Toshihiro Shirakawa 2015.04.12
 
-2D Complete
-3D Complete
+Complete
 
 minimal 10
 3x4x5
-
-Possible
-3x4x[5-9]
-3x5x6
-3x6x[6,7]
-5x5x6
-
-3x3x3x[4,6]
-3x3x4x4
-3x4x4x4
 
 Prime
 3x4x[5-9]
@@ -25,6 +14,7 @@ Prime
 3x3x3x[4,6]
 3x3x4x4
 3x4x4x4
+
 
 Solutions
 3x4x5
