@@ -1,15 +1,5 @@
 Prime boxes of Heptominoes  Toshihiro Shirakawa 2014.01.07
 
-No.1
-#######
-
-minimal 1
-1x1x7
-
-Solutions
-1x1x7
-01 01 01 01 01 01 01
-
 No.2
 ######
 #
