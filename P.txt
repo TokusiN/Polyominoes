@@ -8,7 +8,7 @@ Prime
 Number of solutions
 2x5:1
 7x15:33631
-3x3x5:306
+3x3x5:153
 
 Solutions
 7x15

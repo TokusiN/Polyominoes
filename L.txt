@@ -10,7 +10,7 @@ Prime
 Number of solutions
 2x5:1
 7x15:80
-3x5x5:1640
+3x5x5:820
 
 Solutions
 7x15
