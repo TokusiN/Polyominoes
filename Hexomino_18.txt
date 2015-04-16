@@ -1,4 +1,4 @@
-Prime boxes of the No.18-Heptomino  Toshihiro Shirakawa 2015.04.17
+Prime boxes of the No.18-Hexomino  Toshihiro Shirakawa 2015.04.17
 
 minimal 10
 3x4x5
