@@ -15,7 +15,6 @@ Possible
 6x7x[8,10,12]
 
 Prime
-
 3x4x5
 3x8x8
 
