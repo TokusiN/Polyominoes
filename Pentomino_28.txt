@@ -1,4 +1,4 @@
-Prime boxes of 28-Pentominoes  Toshihiro Shirakawa 2014.04.26
+Prime boxes of 28-Pentomino  Toshihiro Shirakawa 2014.04.26
 
 2x2xMxN Complete
 

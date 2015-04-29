@@ -1,4 +1,4 @@
-Prime boxes of 18-Pentominoes  Toshihiro Shirakawa 2014.04.26
+Prime boxes of 18-Pentomino  Toshihiro Shirakawa 2014.04.26
 
 Update 2015.04.12
        Impossible:

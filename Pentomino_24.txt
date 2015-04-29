@@ -1,4 +1,4 @@
-Prime boxes of 24-Pentominoes  Toshihiro Shirakawa 2014.04.26
+Prime boxes of 24-Pentomino  Toshihiro Shirakawa 2014.04.26
 
 minimal 108?
 4x9x15

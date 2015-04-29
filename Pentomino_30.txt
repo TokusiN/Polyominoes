@@ -1,4 +1,4 @@
-Prime boxes of 30-Pentominoes  Toshihiro Shirakawa 2015.04.13
+Prime boxes of 30-Pentomino  Toshihiro Shirakawa 2015.04.13
 
 minimal 24
 2x2x2x3x5

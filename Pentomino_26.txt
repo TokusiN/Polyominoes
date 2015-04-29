@@ -1,4 +1,4 @@
-Prime boxes of 26-Pentominoes  Toshihiro Shirakawa 2014.04.26
+Prime boxes of 26-Pentomino  Toshihiro Shirakawa 2014.04.26
 
 Update 2015.04.09
        4x13x15
