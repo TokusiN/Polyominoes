@@ -1,4 +1,4 @@
-Prime boxes of 47-Pentomino  Toshihiro Shirakawa 2014.04.29
+Prime boxes of 47-Pentomino  Toshihiro Shirakawa 2015.04.29
 
 minimal 80
 20x20
