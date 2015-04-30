@@ -70,7 +70,7 @@ Impossible
 
 3x3x5
 3x4x5
-3x5x[5,7-13]
+3x5x[5,7-11,13]
 
 
 Solutions
